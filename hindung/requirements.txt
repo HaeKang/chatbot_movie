@@ -1,0 +1,3 @@
+bothub
+beautifulsoup4
+requests
